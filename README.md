@@ -1,7 +1,7 @@
 # ToyCity
 An inventory management application in Ruby that utilizes test-driven development and object oriented design principles, Ruby Gems, and metaprogramming techniques. This project underwent expert code review to ensure the highest code quality and complete implementation of project requirements. The project successfully fulfilled Udacity's Ruby Programming Nanodegree requirements.
 
-*Project description and given requirements*
+*Project description and given requirements below*
 
 ## Project Overview
 
